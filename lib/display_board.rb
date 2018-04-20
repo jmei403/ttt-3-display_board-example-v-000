@@ -8,3 +8,5 @@ def display_board
   puts divider
   puts row
 end
+
+display_board
